@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming | </title>
+    <link>https://krvalieva.github.io/ru/tags/programming/</link>
+      <atom:link href="https://krvalieva.github.io/ru/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <description>Programming</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://krvalieva.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Programming</title>
+      <link>https://krvalieva.github.io/ru/tags/programming/</link>
+    </image>
+    
+    <item>
+      <title>Язык разметки Markdown</title>
+      <link>https://krvalieva.github.io/ru/publications/02/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://krvalieva.github.io/ru/publications/02/</guid>
+      <description>&lt;h2 id=&#34;-язык-разметки-markdown&#34;&gt;📝 Язык разметки Markdown&lt;/h2&gt;
+&lt;p&gt;На этой неделе я познакомилась с языком разметки &lt;strong&gt;Markdown&lt;/strong&gt;, который широко используется в IT-сфере для оформления текстов, документации и веб-контента.&lt;/p&gt;
+&lt;p&gt;Markdown оказался удобным инструментом, позволяющим быстро структурировать информацию без сложных настроек и лишнего кода.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 Изучила базовый синтаксис: заголовки, списки, выделение текста (&lt;strong&gt;жирный&lt;/strong&gt;, &lt;em&gt;курсив&lt;/em&gt;), а также вставку ссылок и изображений.&lt;/li&gt;
+&lt;li&gt;📄 Поняла, как с помощью простых символов можно создавать хорошо оформленные документы, которые легко читаются и редактируются.&lt;/li&gt;
+&lt;li&gt;🧩 Попробовала использовать Markdown для написания заметок и учебных материалов, что значительно упростило процесс работы с текстом.&lt;/li&gt;
+&lt;li&gt;🌐 Узнала, что Markdown активно применяется на таких платформах, как GitHub, а также в блогах и системах управления контентом.&lt;/li&gt;
+&lt;li&gt;⚙️ Осознала, что этот язык особенно полезен для разработчиков, аналитиков и студентов IT-направлений.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Markdown помогает сосредоточиться на содержании текста, не отвлекаясь на сложное форматирование, что делает его отличным инструментом для учебы и работы.&lt;/p&gt;
+&lt;p&gt;В дальнейшем планирую активно использовать Markdown для оформления своих проектов, заметок и документации. 🚀&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Знакомство с GitHub</title>
+      <link>https://krvalieva.github.io/ru/publications/01/</link>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://krvalieva.github.io/ru/publications/01/</guid>
+      <description>&lt;h2 id=&#34;-мое-знакомство-с-github&#34;&gt;💻 Мое знакомство с GitHub&lt;/h2&gt;
+&lt;p&gt;На этой неделе я познакомилась с платформой &lt;strong&gt;GitHub&lt;/strong&gt; — одним из самых популярных сервисов для хранения и совместной разработки программного кода. Для студентов направления &lt;strong&gt;«Бизнес-информатика»&lt;/strong&gt; это особенно полезный инструмент, потому что он помогает не только хранить проекты, но и учиться работать с современными инструментами разработки.&lt;/p&gt;
+&lt;h2 id=&#34;-что-такое-github&#34;&gt;🔎 Что такое GitHub&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;GitHub&lt;/strong&gt; — это платформа, которая используется разработчиками для хранения проектов, управления версиями кода и совместной работы. Она работает на основе системы контроля версий &lt;strong&gt;Git&lt;/strong&gt;, которая позволяет отслеживать изменения в файлах и возвращаться к предыдущим версиям проекта.&lt;/p&gt;
+&lt;p&gt;Это делает процесс разработки более удобным и организованным.&lt;/p&gt;
+&lt;h2 id=&#34;-что-я-узнала&#34;&gt;⚙️ Что я узнала&lt;/h2&gt;
+&lt;p&gt;Во время изучения GitHub я познакомилась с основными возможностями платформы:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📂 &lt;strong&gt;Репозитории&lt;/strong&gt; — место, где хранится проект и все его файлы&lt;/li&gt;
+&lt;li&gt;📝 &lt;strong&gt;Коммиты&lt;/strong&gt; — сохранение изменений в проекте&lt;/li&gt;
+&lt;li&gt;🌿 &lt;strong&gt;Ветки (branches)&lt;/strong&gt; — возможность работать над разными версиями проекта&lt;/li&gt;
+&lt;li&gt;🤝 &lt;strong&gt;Совместная работа&lt;/strong&gt; — несколько разработчиков могут работать над одним проектом&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Эти инструменты помогают эффективно организовать процесс разработки и отслеживать изменения в коде.&lt;/p&gt;
+&lt;h2 id=&#34;-почему-github-важен&#34;&gt;🚀 Почему GitHub важен&lt;/h2&gt;
+&lt;p&gt;Для будущих специалистов в области IT и бизнес-информатики GitHub играет важную роль:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;позволяет хранить и демонстрировать свои проекты&lt;/li&gt;
+&lt;li&gt;помогает работать в команде над программными продуктами&lt;/li&gt;
+&lt;li&gt;упрощает управление версиями кода&lt;/li&gt;
+&lt;li&gt;формирует профессиональное портфолио разработчика&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Многие компании также обращают внимание на GitHub-профиль кандидатов при трудоустройстве.&lt;/p&gt;
+&lt;h2 id=&#34;-мои-планы&#34;&gt;📚 Мои планы&lt;/h2&gt;
+&lt;p&gt;В ближайшее время я планирую:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;продолжать изучать систему &lt;strong&gt;Git&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;размещать учебные проекты на GitHub&lt;/li&gt;
+&lt;li&gt;учиться работать с ветками и совместной разработкой&lt;/li&gt;
+&lt;li&gt;постепенно формировать собственное портфолио проектов&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Работа с GitHub — это важный шаг в развитии навыков программирования и подготовки к будущей профессиональной деятельности. 🚀&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

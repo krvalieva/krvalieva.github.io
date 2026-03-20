@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GitHub | </title>
+    <link>https://krvalieva.github.io/ru/tags/github/</link>
+      <atom:link href="https://krvalieva.github.io/ru/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <description>GitHub</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 10 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://krvalieva.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>GitHub</title>
+      <link>https://krvalieva.github.io/ru/tags/github/</link>
+    </image>
+    
+    <item>
+      <title>Знакомство с GitHub</title>
+      <link>https://krvalieva.github.io/ru/publications/01/</link>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://krvalieva.github.io/ru/publications/01/</guid>
+      <description>&lt;h2 id=&#34;-мое-знакомство-с-github&#34;&gt;💻 Мое знакомство с GitHub&lt;/h2&gt;
+&lt;p&gt;На этой неделе я познакомилась с платформой &lt;strong&gt;GitHub&lt;/strong&gt; — одним из самых популярных сервисов для хранения и совместной разработки программного кода. Для студентов направления &lt;strong&gt;«Бизнес-информатика»&lt;/strong&gt; это особенно полезный инструмент, потому что он помогает не только хранить проекты, но и учиться работать с современными инструментами разработки.&lt;/p&gt;
+&lt;h2 id=&#34;-что-такое-github&#34;&gt;🔎 Что такое GitHub&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;GitHub&lt;/strong&gt; — это платформа, которая используется разработчиками для хранения проектов, управления версиями кода и совместной работы. Она работает на основе системы контроля версий &lt;strong&gt;Git&lt;/strong&gt;, которая позволяет отслеживать изменения в файлах и возвращаться к предыдущим версиям проекта.&lt;/p&gt;
+&lt;p&gt;Это делает процесс разработки более удобным и организованным.&lt;/p&gt;
+&lt;h2 id=&#34;-что-я-узнала&#34;&gt;⚙️ Что я узнала&lt;/h2&gt;
+&lt;p&gt;Во время изучения GitHub я познакомилась с основными возможностями платформы:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📂 &lt;strong&gt;Репозитории&lt;/strong&gt; — место, где хранится проект и все его файлы&lt;/li&gt;
+&lt;li&gt;📝 &lt;strong&gt;Коммиты&lt;/strong&gt; — сохранение изменений в проекте&lt;/li&gt;
+&lt;li&gt;🌿 &lt;strong&gt;Ветки (branches)&lt;/strong&gt; — возможность работать над разными версиями проекта&lt;/li&gt;
+&lt;li&gt;🤝 &lt;strong&gt;Совместная работа&lt;/strong&gt; — несколько разработчиков могут работать над одним проектом&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Эти инструменты помогают эффективно организовать процесс разработки и отслеживать изменения в коде.&lt;/p&gt;
+&lt;h2 id=&#34;-почему-github-важен&#34;&gt;🚀 Почему GitHub важен&lt;/h2&gt;
+&lt;p&gt;Для будущих специалистов в области IT и бизнес-информатики GitHub играет важную роль:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;позволяет хранить и демонстрировать свои проекты&lt;/li&gt;
+&lt;li&gt;помогает работать в команде над программными продуктами&lt;/li&gt;
+&lt;li&gt;упрощает управление версиями кода&lt;/li&gt;
+&lt;li&gt;формирует профессиональное портфолио разработчика&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Многие компании также обращают внимание на GitHub-профиль кандидатов при трудоустройстве.&lt;/p&gt;
+&lt;h2 id=&#34;-мои-планы&#34;&gt;📚 Мои планы&lt;/h2&gt;
+&lt;p&gt;В ближайшее время я планирую:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;продолжать изучать систему &lt;strong&gt;Git&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;размещать учебные проекты на GitHub&lt;/li&gt;
+&lt;li&gt;учиться работать с ветками и совместной разработкой&lt;/li&gt;
+&lt;li&gt;постепенно формировать собственное портфолио проектов&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Работа с GitHub — это важный шаг в развитии навыков программирования и подготовки к будущей профессиональной деятельности. 🚀&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
