@@ -5,12 +5,32 @@
     <link>https://krvalieva.github.io/ru/blog/</link>
       <atom:link href="https://krvalieva.github.io/ru/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 17 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 24 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://krvalieva.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Blog</title>
       <link>https://krvalieva.github.io/ru/blog/</link>
     </image>
+    
+    <item>
+      <title>Моя учебная неделя</title>
+      <link>https://krvalieva.github.io/ru/blog/03/</link>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://krvalieva.github.io/ru/blog/03/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта неделя прошла продуктивно и позволила углубить понимание ключевых аспектов бизнес-информатики, а также применить знания на практике.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🎓 На занятиях по &lt;strong&gt;бизнес-информатике&lt;/strong&gt; уделили внимание моделированию бизнес-процессов и инструментам автоматизации, рассматривая их роль в повышении эффективности компаний.&lt;/li&gt;
+&lt;li&gt;💻 В рамках &lt;strong&gt;программирования&lt;/strong&gt; продолжила решать задачи, сосредоточившись на структурировании кода и поиске более эффективных решений.&lt;/li&gt;
+&lt;li&gt;📊 На курсе по &lt;strong&gt;анализу данных&lt;/strong&gt; изучала методы обработки данных и попробовала применять их для решения практических задач.&lt;/li&gt;
+&lt;li&gt;📚 Продвинулась в изучении &lt;strong&gt;цифровой экономики&lt;/strong&gt;, рассматривая современные тенденции и влияние технологий на развитие бизнеса.&lt;/li&gt;
+&lt;li&gt;🤝 Работала в команде над учебными заданиями, что помогло лучше разобраться в сложных темах и улучшить навыки взаимодействия.&lt;/li&gt;
+&lt;li&gt;🌿 Сохраняла баланс между учёбой и отдыхом, уделяя внимание восстановлению и личному развитию.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Постепенно формируется целостное понимание того, как технологии и бизнес-процессы взаимосвязаны, и какую роль играет специалист в области бизнес-информатики.&lt;/p&gt;
+&lt;p&gt;Двигаюсь дальше, шаг за шагом развивая профессиональные навыки. 🚀&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя учебная неделя</title>

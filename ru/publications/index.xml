@@ -5,12 +5,32 @@
     <link>https://krvalieva.github.io/ru/publications/</link>
       <atom:link href="https://krvalieva.github.io/ru/publications/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://krvalieva.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Publications</title>
       <link>https://krvalieva.github.io/ru/publications/</link>
     </image>
+    
+    <item>
+      <title>Создание презентаций</title>
+      <link>https://krvalieva.github.io/ru/publications/03/</link>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://krvalieva.github.io/ru/publications/03/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📊 Итоги недели&lt;/h2&gt;
+&lt;p&gt;На этой неделе основной акцент был сделан на развитии навыков создания презентаций — важного инструмента для представления идей и результатов работы.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🎓 В рамках учебных занятий изучила принципы построения &lt;strong&gt;эффективных презентаций&lt;/strong&gt;: логика изложения, структура и визуальная подача информации.&lt;/li&gt;
+&lt;li&gt;💻 Освоила основные инструменты для создания слайдов, уделяя внимание дизайну, читаемости и минимализму.&lt;/li&gt;
+&lt;li&gt;📊 Практиковалась в &lt;strong&gt;визуализации данных&lt;/strong&gt;, подбирая подходящие графики и схемы для наглядного представления информации.&lt;/li&gt;
+&lt;li&gt;🧠 Работала над навыками &lt;strong&gt;структурирования материала&lt;/strong&gt;, чтобы информация воспринималась последовательно и понятно.&lt;/li&gt;
+&lt;li&gt;🎤 Подготовила и представила небольшую презентацию, что помогло развить уверенность в публичных выступлениях.&lt;/li&gt;
+&lt;li&gt;🤝 Получила обратную связь от преподавателя и одногруппников, что позволило увидеть сильные стороны и точки роста.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Постепенно приходит понимание, что качественная презентация — это не только красивый дизайн, но и чётко выстроенная логика, понятная аудитории.&lt;/p&gt;
+&lt;p&gt;Продолжаю развивать навыки визуальной коммуникации и уверенного представления своих идей. 🚀&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Язык разметки Markdown</title>
