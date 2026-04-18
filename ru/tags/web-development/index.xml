@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Development | </title>
+    <link>https://krvalieva.github.io/ru/tags/web-development/</link>
+      <atom:link href="https://krvalieva.github.io/ru/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <description>Web Development</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://krvalieva.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Web Development</title>
+      <link>https://krvalieva.github.io/ru/tags/web-development/</link>
+    </image>
+    
+    <item>
+      <title>Сайт научного работника на Hugo Academic</title>
+      <link>https://krvalieva.github.io/ru/projects/hugo/</link>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://krvalieva.github.io/ru/projects/hugo/</guid>
+      <description>&lt;h2 id=&#34;-сайт-научного-работника&#34;&gt;🌐 Сайт научного работника&lt;/h2&gt;
+&lt;p&gt;На этой неделе я познакомилась с созданием персонального сайта научного работника с помощью статического генератора &lt;strong&gt;Hugo&lt;/strong&gt; и шаблона &lt;strong&gt;Hugo Academic&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 Изучила принципы работы &lt;strong&gt;Hugo&lt;/strong&gt; — генератора статических сайтов, который позволяет быстро создавать удобные и современные веб-страницы.&lt;/li&gt;
+&lt;li&gt;🧩 Разобралась со структурой проекта: конфигурационные файлы, контент, темы и способы их настройки.&lt;/li&gt;
+&lt;li&gt;🎓 Особое внимание уделила шаблону &lt;strong&gt;Hugo Academic&lt;/strong&gt;, который ориентирован на создание академических сайтов с разделами публикаций, проектов и резюме.&lt;/li&gt;
+&lt;li&gt;📄 Научилась оформлять страницы с информацией о себе, добавлять список научных работ, навыков и достижений.&lt;/li&gt;
+&lt;li&gt;🛠 Попробовала редактировать внешний вид сайта, изменяя параметры темы и адаптируя его под собственные задачи.&lt;/li&gt;
+&lt;li&gt;🚀 Поняла, что такой сайт является важным инструментом для представления себя в профессиональной и научной среде.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Создание персонального сайта позволяет систематизировать информацию о своей деятельности, продемонстрировать проекты и сделать научную работу более доступной для широкой аудитории.&lt;/p&gt;
+&lt;p&gt;Продолжаю изучать возможности веб-разработки и цифровых инструментов для профессионального развития. 🚀&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

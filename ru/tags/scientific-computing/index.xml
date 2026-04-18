@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scientific Computing | </title>
+    <link>https://krvalieva.github.io/ru/tags/scientific-computing/</link>
+      <atom:link href="https://krvalieva.github.io/ru/tags/scientific-computing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Scientific Computing</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://krvalieva.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Scientific Computing</title>
+      <link>https://krvalieva.github.io/ru/tags/scientific-computing/</link>
+    </image>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>https://krvalieva.github.io/ru/publications/04/</link>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://krvalieva.github.io/ru/publications/04/</guid>
+      <description>&lt;h2 id=&#34;-языки-научного-программирования&#34;&gt;🔬 Языки научного программирования&lt;/h2&gt;
+&lt;p&gt;На этой неделе особое внимание уделила теме &lt;strong&gt;языков научного программирования&lt;/strong&gt; и их значения в современных исследованиях, анализе данных и решении прикладных задач.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 Изучала, какие &lt;strong&gt;языки программирования&lt;/strong&gt; чаще всего используются в научной среде, и почему именно они востребованы при работе с вычислениями, моделированием и анализом данных.&lt;/li&gt;
+&lt;li&gt;📊 Особый интерес вызвал &lt;strong&gt;Python&lt;/strong&gt;, который широко применяется благодаря большому количеству библиотек для анализа данных, визуализации и машинного обучения.&lt;/li&gt;
+&lt;li&gt;📈 Также обратила внимание на &lt;strong&gt;R&lt;/strong&gt; как на важный инструмент для статистической обработки данных и построения аналитических моделей.&lt;/li&gt;
+&lt;li&gt;🧮 Рассматривала значение &lt;strong&gt;MATLAB&lt;/strong&gt; и других специализированных решений, которые активно используются в инженерных, технических и исследовательских задачах.&lt;/li&gt;
+&lt;li&gt;🔍 Сделала вывод о том, что выбор языка научного программирования зависит не только от области исследования, но и от удобства работы с данными, доступности библиотек и целей проекта.&lt;/li&gt;
+&lt;li&gt;📚 Эта тема помогла лучше понять, как программирование становится неотъемлемой частью научной деятельности и способствует более точному и быстрому получению результатов.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Изучение языков научного программирования показывает, насколько важны цифровые инструменты в современной науке. Они помогают автоматизировать расчёты, анализировать большие объёмы информации и делать исследования более эффективными.&lt;/p&gt;
+&lt;p&gt;Продолжаю расширять свои знания в этой области, чтобы лучше понимать, как технологии применяются в науке и аналитике. 🚀&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
